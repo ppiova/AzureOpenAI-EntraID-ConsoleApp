@@ -51,7 +51,7 @@ Do you want to include an image in the query? (y/n)
 Enter your question (type 'exit' to end):
 ```
 
-Resources
+## Resources
 - [How to configure Azure OpenAI Service with Microsoft Entra ID authentication](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/managed-identity?WT.mc_id=AI-MVP-5004753)
 - [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference?WT.mc_id=AI-MVP-5004753)
 
