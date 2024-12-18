@@ -1,7 +1,7 @@
-# AzureOpenAI-EntraID-ConsoleApp
+# Azure Open AI Rest API -  EntraID -  ConsoleApp
 
 ## Project Description
-AzureOpenAI-EntraID-ConsoleApp is a console application written in C# that integrates with Azure OpenAI and Entra ID services. The application demonstrates how to authenticate with Azure services and interact with an AI assistant via the command line.
+Azure OpenAI EntraID ConsoleApp is a console application written in C# that integrates with Azure OpenAI REST API and Entra ID services. The application demonstrates how to authenticate with Azure services and interact with an AI assistant via the command line.
 
 ## Key Features
 - Authenticate with Azure using Tenant ID, Client ID, and Client Secret.
